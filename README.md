@@ -1,1 +1,1 @@
-## This is a copy of Google Home page
+## This is a copy of Google Home page.
